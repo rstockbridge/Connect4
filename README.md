@@ -9,7 +9,7 @@ A two-player command line Connect Four game.
 
 * From `src/main/java`:
 	1. Compile using `javac *.java`
-	2. Run using `java Main`
+	2. Run using `java PlayConnect4`
 	
 # License
 
