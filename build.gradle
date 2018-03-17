@@ -5,3 +5,7 @@ apply plugin: 'application'
 mainClassName = "PlayConnect4"
 
 sourceCompatibility = 1.8
+
+run {
+    standardInput = System.in
+}
